@@ -1,1 +1,11 @@
-body{background-color: rgb(236, 131, 236);}
+.cabecalho{background-color: #eb88c3;
+display: flex; 
+align-items: center
+
+}
+
+.cabecalho-imagem { width: 100px ;height: 100px ;}
+
+section {display: grid;}
+
+
